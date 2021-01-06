@@ -51,4 +51,4 @@ Achievability:                        | <span id="achievability" />
 <script src="https://www.gstatic.com/firebasejs/8.1.2/firebase-firestore.js"></script>
 
 <!-- Make sure Firebase SDKs are loaded before this -->
-<script src="{{ site.url }}/assets/js/verify-certificates.js"></script>
+<script src="verify-certificates.js"></script>
